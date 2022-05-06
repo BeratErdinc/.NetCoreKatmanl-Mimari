@@ -1,0 +1,22 @@
+﻿@using EntityLayer.Concrete
+@model List<Announcement>
+@{
+    ViewData["Title"] = "AnnouncementDetay";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<h4> Açıklama..</h4>
+<table class="table table-bordered">
+    <tr>
+        <td>Yapılıcakların Açıklması</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Content</td>
+        </tr>
+    }
+        
+    
+</table>
+

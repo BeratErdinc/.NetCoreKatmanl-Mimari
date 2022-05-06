@@ -1,0 +1,344 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Core_Proje
+build_property.RootNamespace = Core_Proje
+build_property.ProjectDir = C:\Users\Berat\Desktop\Projelerim\Core_Proje\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Berat\Desktop\Projelerim\Core_Proje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Default/AnnouncementDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERlZmF1bHRcQW5ub3VuY2VtZW50RGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERlZmF1bHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Profil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFByb2ZpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFJlZ2lzdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/Shared/Components/PartialList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXFBhcnRpYWxMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Areas/Writer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Default/AnnouncementDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcRGVmYXVsdFxBbm5vdW5jZW1lbnREZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Profil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcUHJvZmlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/Shared/Components/PartialList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGFydGlhbExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Areas/Writer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxBcmVhc1xXcml0ZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xBYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xEZWZhdWx0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Experience/AddExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xFeHBlcmllbmNlXEFkZEV4cGVyaWVuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Experience/EditExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xFeHBlcmllbmNlXEVkaXRFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Experience/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xFeHBlcmllbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Feature/EditFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xGZWF0dXJlXEVkaXRGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xGZWF0dXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xQb3J0Zm9saW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/AboutList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xBYm91dExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/ExperienceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xFeHBlcmllbmNlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/FeatureList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xGZWF0dXJlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/FeatureStatistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xGZWF0dXJlU3RhdGlzdGljc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/Last5Projects/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xMYXN0NVByb2plY3RzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/MessageList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xNZXNzYWdlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/PortfolioList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xQb3J0Zm9saW9MaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/ProjectList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xQcm9qZWN0TGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/ServiceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xTZXJ2aWNlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/SkillList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xTa2lsbExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/StatisticsDashboard2/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xTdGF0aXN0aWNzRGFzaGJvYXJkMlxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/TestimonialsList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xUZXN0aW1vbmlhbHNMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Components/ToDoListPanel/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xUb0RvTGlzdFBhbmVsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/_WriterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcX1dyaXRlckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Skill/AddSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTa2lsbFxBZGRTa2lsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Skill/EditSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTa2lsbFxFZGl0U2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTa2lsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Experience/AddExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxBZGRFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Experience/EditExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxFZGl0RXhwZXJpZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Experience/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Feature/EditFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxFZGl0RmVhdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/AboutList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/ExperienceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/FeatureList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/FeatureStatistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZVN0YXRpc3RpY3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/Last5Projects/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdDVQcm9qZWN0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/MessageList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVzc2FnZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/PortfolioList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9ydGZvbGlvTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/ProjectList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/ServiceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/SkillList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/StatisticsDashboard2/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RhdGlzdGljc0Rhc2hib2FyZDJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/TestimonialsList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxzTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Components/ToDoListPanel/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG9Eb0xpc3RQYW5lbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/_WriterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Xcml0ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Skill/AddSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQWRkU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Skill/EditSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcRWRpdFNraWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Core_Proje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29yZV9Qcm9qZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-casrpk82sj
+
+[C:/Users/Berat/Desktop/Projelerim/Core_Proje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jm3q05z1tp

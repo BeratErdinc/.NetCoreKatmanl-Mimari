@@ -1,0 +1,23 @@
+﻿@model EntityLayer.Concrete.Experience
+@{
+    ViewData["Title"] = "EditExperience";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using(@Html.BeginForm("EditExperience","Experience",FormMethod.Post))
+{
+     @Html.LabelFor(x=>x.Name)
+    @Html.TextBoxFor(x=>x.Name, new {@class="form-control"})
+    <br />
+    @Html.LabelFor(x=>x.Date)
+    @Html.TextBoxFor(x=>x.Date , new {@class="form-control"})
+    <br/>
+    @Html.LabelFor(x=>x.ImageUrl)
+    @Html.TextBoxFor(x=>x.ImageUrl , new {@class="form-control"})
+    <br />
+    @Html.LabelFor(x=>x.Description)
+    @Html.TextBoxFor(x=>x.Description , new {@class="form-control"})
+
+    <button class="btn btn-facebook"> Update Experience</button>
+}
+

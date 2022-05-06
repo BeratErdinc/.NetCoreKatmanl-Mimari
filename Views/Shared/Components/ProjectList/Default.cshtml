@@ -1,0 +1,48 @@
+﻿@using EntityLayer.Concrete
+@model List<Portfolio>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+  <div class="row ">
+              <div class="col-12 grid-margin">
+                <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title">Projerlerle İlgili Bilgiler</h4>
+                    <div class="table-responsive">
+                      <table class="table">
+                        <thead>
+                          <tr>
+                            <th>
+                              #
+                            </th>
+                            <th>ProjeAdı</th>
+                            <th>Fiyat</th>
+                            <th>Tamamlanma Oranı</th>
+                            <th>Durum</th>
+                            
+                          </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var x in Model)
+                            {
+                                
+                    
+                          <tr>
+                            <td>
+                              @x.PortfolioId
+                            </td>
+                            <td>@x.Name</td>
+                            <td>@x.Price</td>
+                            <td>@x.Value</td>
+                            <td>@x.Stust</td>
+                          
+                          </tr>
+                       }
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>

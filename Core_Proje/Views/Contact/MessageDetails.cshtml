@@ -1,0 +1,46 @@
+﻿@using EntityLayer.Concrete
+@model List<Message>
+@{
+    ViewData["Title"] = "MessageDetails";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+              <h3 class="mb-0">Gelen Mesajlar</h3>
+            </div>
+            <!-- Light table -->
+            <div class="table-responsive">
+              <table class="table align-items-center table-flush">
+                  <tr>
+                    <th >#</th>
+                    <th >Gönderen</th>
+            
+                  </tr>
+               
+                <tbody class="list"> 
+                    @foreach (var x in Model)
+                    {
+                      
+          
+                 <tr>
+                    <td>
+                      @x.MessageId
+                    </td>
+                    <td >
+                      @x.Content
+                    </td>
+                     <td >
+                      @x.Stat
+                    </td>
+           
+                  </tr>
+             
+                  
+                 
+                  }
+                </tbody>
+              </table>
+               <a href="/Experience/AddExperience" class="btn btn-twitter">Add Experience</a>
+
+            </div>
+
